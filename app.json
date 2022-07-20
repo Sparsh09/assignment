@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.geekyprogrammer.snackf96c05717a9847d78ac6763895427aaf"
     },
     "web": {
       "favicon": "./assets/favicon.png"
